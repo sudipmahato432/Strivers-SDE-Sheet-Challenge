@@ -10,13 +10,15 @@
 
 > I have Started to solve the problems of the SDE sheet eariler than the announcement of the Challange.
 
-> Actually I have solved the Problems From **Array(_all 4 Parts_)**, **Linked List(_both the parts_)**, **String(_Both the parts)**, and _10 problems from_**Stack and Queue**.
+> Actually I have solved the Problems From **Array (_all 4 Parts_)**, **Linked List (_both the parts_)**, **String (_both the parts)**, and _10 problems from_ **Stack and Queue**.
 
 > So I am uploading them first and then I will go on my own pace of solving the problems.
 
 ## Progress Till Now
 
 **LeetCode Progress Stat:**
+
+
 _SnapShot of Number of question Solved till now:_
 
 
@@ -28,12 +30,14 @@ _Snapshot of my LeetCode indulgement Stat:_
 ![Leet Code indulgement statistics](https://github.com/sudipmahato432/Strivers-SDE-Sheet-Challenge/assets/80632874/00c4c488-1c8d-4f30-a2a7-908dfe09b81a)
 
 **Code Studio Progress Stat:**
+
+
 _SnapShot of Code Studio indugement stat:_
 
 
 ![Code Studio Indulgement statistics](https://github.com/sudipmahato432/Strivers-SDE-Sheet-Challenge/assets/80632874/29a8bdb0-b1ac-4053-a3a1-8aceb21674b7)
 
-_SnapShot of Achievements on Code Studio:**_
+_SnapShot of Achievements on Code Studio:_
 
 
 ![Achievements](https://github.com/sudipmahato432/Strivers-SDE-Sheet-Challenge/assets/80632874/3c1fa56e-cb9b-486e-9c9e-9d8496567b03)
